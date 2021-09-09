@@ -1,0 +1,50 @@
+h1{
+    font: bold 30px sans-serif;
+    margin-top: 25px;
+}
+.fp{
+    text-align: center;
+    font: 15px sans-serif;
+    margin: -2px;
+}
+.pp{
+    text-align: center;
+    margin-top: 60px;
+    font: 15px sans-serif;
+}
+
+.arreglo_head{
+    margin-left: 500px;
+}
+.separador{
+    margin-left: 25px;
+}
+.tamañonav{
+    width: 95%;
+    height: 75px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.orden{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 100%;
+}
+.imagen{
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.divspc{
+    width: 90%;
+    margin-right: 20px;
+}
+.divfoo{
+    width: 95%;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 25px;
+}
